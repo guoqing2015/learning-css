@@ -85,7 +85,7 @@ $<map>-<sprite>-<property>: setting;    // 配置单个sprite
 `<map>`: 对应图标存放的文件夹名称，如上面例子中的：share
 `<sprite>`: 对应单个图标的名称，如上面例子中的: weibo, qq, github等
 
-[查看demo](code/compass-demo/config.rb)
+[查看demo](../code/compass-demo/config.rb)
 
 参考资料：
 - [使用compass自动合并css雪碧图](https://www.w3ctech.com/topic/620)
