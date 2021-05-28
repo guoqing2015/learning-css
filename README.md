@@ -7,5 +7,6 @@
 * [Flex Basis与Width的区别](https://www.jianshu.com/p/17b1b445ecd4)
 * [css3 object-fit详解](https://www.cnblogs.com/ranyonsue/p/9367423.html)
 * [display: flex布局教程](https://www.zhangxinxu.com/wordpress/2018/10/display-flex-css3-css/)
+* [设置表格1px的边框](https://www.kavdesign.net/blog/coding/how-to-add-a-1px-border-to-a-table-with-css/)
 
 
